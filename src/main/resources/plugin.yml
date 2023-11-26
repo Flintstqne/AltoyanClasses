@@ -1,0 +1,4 @@
+name: AltoyanClasses
+version: '${project.version}'
+main: cc.sarcxsm.altoyamc.Main
+api-version: '1.20'
